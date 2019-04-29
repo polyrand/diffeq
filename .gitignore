@@ -1,3 +1,9 @@
+.vscode/
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
 programming-differential-equations
 Udacity-Diff-Equ-in-Action
 # Created by https://www.gitignore.io/api/vim,macos,python,virtualenv,jupyternotebook
