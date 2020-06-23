@@ -1,4 +1,8 @@
-# Product Name
+
+Moved to:
+
+https://github.com/polyrand/learn
+
 Exercises of the course Differential Equations in Action from Udacity
 
 
